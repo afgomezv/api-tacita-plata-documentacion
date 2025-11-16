@@ -134,22 +134,12 @@ curl -X GET "https://visorestrategicobackend-gkejc4hthnace6b4.eastus2-01.azurewe
           "meta": "500",
           "cantidad_ejecutada": "210"
         },
-        {
-          "nombre": "Instalación de pisos",
-          "unidad_medida": "Metros cuadrados",
-          "meta": "300",
-          "cantidad_ejecutada": "150"
-        }
       ],
       "beneficiarios": [
         {
           "cedula": "1234567890",
           "nombre_completo": "María García López"
         },
-        {
-          "cedula": "9876543210",
-          "nombre_completo": "Carlos Martínez Pérez"
-        }
       ],
       "pgirs": [
         {
